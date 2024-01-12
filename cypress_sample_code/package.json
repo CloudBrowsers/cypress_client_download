@@ -1,0 +1,14 @@
+{
+  "name": "cypress_sample_code",
+  "version": "1.0.0",
+  "description": "Sample example of running Cypress tests with CloudifyTests platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello Cypress\" && exit 1"
+  },
+  "keywords": [],
+  "author": "CloudifyTests Team.",
+  "dependencies": {
+    "cypress": "^13.6.2"
+  }
+}
