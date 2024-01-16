@@ -38,7 +38,7 @@ _Example showing how [Cypress](https://cypress.io/) work with [CloudifyTests](ht
    npm install
    ```
 2. Copy shell script capabilities code from Cypress menu on CloudifyTests.
-3. Replace all code in generate_url.sh file.
+3. Replace all code in ```generate_url.sh``` file.
 4. Execute the shell script and copy generated url.
    ```shell
    ./generate_url.sh
