@@ -22,3 +22,10 @@ encoded_cap=$(echo $desired_cap | jq -c -R -r @uri)
 cdpUrl="https://<username>:<token>@jan5.cloudifytests.io/cypress?caps=${encoded_cap}"
 
 echo $cdpUrl
+
+# Infinite loop to hold console screen
+
+while true
+do
+  sleep 1000
+done
